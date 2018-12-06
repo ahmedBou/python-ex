@@ -23,7 +23,7 @@ print(s)
 # Passing by Value
 z = 5
 def add_number(x, y):
-    x = x+y
+    x = x + y
 add_number(z, 10)
-print(z) # is still 5 because z is primitive value,it's different to x, that's mean is get passing 
-# by value
+print(z) 
+# is still 5 because z is primitive value,it's different to x, that's mean is get passing by value
